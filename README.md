@@ -16,17 +16,17 @@ After you `/link` your Steam, just `/refresh` to update your game library and yo
 
 **Commands:**
 
-`/link` *<Steam ID or URL>* - Link your Steam account
+`/link <Steam ID or URL>` - Link your Steam account
 
 `/refresh` - Update your Steam library
 
-`/add` *<game>* - Add a custom (non-Steam) game
+`/add <game>` - Add a custom (non-Steam) game
 
-`/remove` *<game>* - Remove a custom game
+`/remove <game>` - Remove a custom game
 
-`/run_game` *<game>* - See who owns a game
+`/run_game <game>` - See who owns a game
 
-`/run_user` *<@user>* - View shared games with a user
+`/run_user <@user>` - View shared games with a user
 
 `/unlink` - Delete all your data from the bot's server
 
