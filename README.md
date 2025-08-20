@@ -28,6 +28,8 @@ After you `/link` your Steam, just `/refresh` to update your game library and yo
 
 `/run_user <@user>` - View shared games with a user
 
+`/post <game>` - Post a public request to find players for a game
+
 `/unlink` - Delete all your data from the bot's server
 
 &nbsp;
