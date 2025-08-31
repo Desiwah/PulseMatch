@@ -1,20 +1,45 @@
 # PulseMatch Discord Bot
 
-Use the **PulseMatch** bot to discover which Steam games you share with others or find out who else owns a specific game you have.
+**PulseMatch** makes game nights effortless by showing which Steam games you and your friends share.  
+You can instantly see who owns what or create a post with `/post` to find teammates right away.
 
 &nbsp;
 
-⚠️ Your **Steam profile** and **game details** must be set to public, otherwise the bot won't work!
-If you prefer to keep your Steam profile and game details private, you can switch them back **after** running the `/refresh` command.
+🎮 **Instant game checks**  
+See all the games you share with a friend or find who owns a specific title.
+
+🤝 **Find teammates with `/post`**  
+Create a public post for any game. Friends can mark interest, you get notified, and posts expire after 24 hours.
+
+➕ **Non-Steam games supported**  
+Add titles like Minecraft or Valorant manually. They work the same as Steam games in comparisons and posts.
+
+🔔 **Smart notifications**  
+Enable alerts and get a DM when someone joins your play request. No spam, just the signals that matter.
+
+📬 **DM results**  
+Long lists are sent to your DMs with page buttons for easy browsing.
+
+🛡️ **Private and simple**  
+No Steam login required. Just link your profile, refresh your library, and you're done.  
+Your data stays local to the bot.
 
 &nbsp;
 
-After you `/link` your Steam, just `/refresh` to update your game library and you're good to go!
-(You only need to `/refresh` again after buying a new game, so it's included the next time you or someone else uses the `/run` command)
+# **Instructions:**
+
+After you `/link` your Steam, just run `/refresh` to update your game library and you're good to go!  
+
+(You only need to `/refresh` again after buying a new game, so it’s included the next time you or someone else uses `/run_game`, `/run_user` or `/post`.)  
 
 &nbsp;
 
-**Commands:**
+⚠️ Your **Steam profile** and **game details** must be set to public, otherwise library comparison features will not work.  
+If you prefer to keep them private, you can switch back **after** running the `/refresh` command.  
+
+&nbsp;
+
+# **Commands:**
 
 `/link <Steam ID or URL>` - Link your Steam account
 
@@ -41,7 +66,7 @@ After you `/link` your Steam, just `/refresh` to update your game library and yo
 &nbsp;
 &nbsp;
 
-PulseMatch is free to use. Your support is optional but appreciated:
+**PulseMatch** is free to use. Your support is optional but appreciated:
 
 <a href="https://www.buymeacoffee.com/desiwah">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me a Coffee" width="160">
