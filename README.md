@@ -80,6 +80,8 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 `/unlink` - Delete all your data from the bot's server
 
+`/help` - Show instructions and list all available commands
+
 &nbsp;
 
 # **Legal**
