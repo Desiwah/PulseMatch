@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://cdn.discordapp.com/app-icons/1385330923863801866/0c0f3e253dff207f5f7d29aeac89b2cc.png" alt="PulseMatch Icon" width="80" height="80" style="border-radius:50">
+  <img src="https://github.com/Desiwah/PulseMatch/blob/main/assets/logo.png?raw=true" alt="PulseMatch Icon" width="80" height="80">
 </p>
 
 <h1 align="center">PulseMatch Discord Bot</h1>
