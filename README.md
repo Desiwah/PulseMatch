@@ -26,7 +26,7 @@ Your data stays local to the bot.
 
 &nbsp;
 
-# **Instructions:**
+# **Instructions**
 
 After you `/link` your Steam, just run `/refresh` to update your game library and you're good to go!  
 
@@ -39,7 +39,19 @@ If you prefer to keep them private, you can switch back **after** running the `/
 
 &nbsp;
 
-# **Commands:**
+# **Installation**
+
+Choose one of the options below to add **PulseMatch** to your Discord server:
+
+[![Open in App Discovery](https://img.shields.io/badge/Open%20in%20App%20Discovery-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/discovery/applications/1385330923863801866)
+
+**OR**
+
+[![Install to Server](https://img.shields.io/badge/Install%20to%20Server-43B581?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1385330923863801866)
+
+&nbsp;
+
+# **Commands**
 
 `/link <Steam ID or URL>` - Link your Steam account
 
@@ -58,13 +70,15 @@ If you prefer to keep them private, you can switch back **after** running the `/
 `/unlink` - Delete all your data from the bot's server
 
 &nbsp;
-&nbsp;
+
+# **Legal**
 
 📜 [Privacy Policy](./privacy_policy.md)  
 📘 [Terms of Service](./terms_of_service.md)
 
 &nbsp;
-&nbsp;
+
+# **Support**
 
 **PulseMatch** is free to use. Your support is optional but appreciated:
 
