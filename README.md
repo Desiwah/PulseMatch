@@ -34,14 +34,19 @@ Your data stays local to the bot.
 
 # **Instructions**
 
-After you `/link` your Steam, just run `/refresh` to update your game library and you're good to go!  
+After you `/link` your Steam, just run `/refresh` to update your game library and you're good to go!
 
-*You only need to `/refresh` again after buying a new game, so it’s included the next time you or someone else uses `/run_game`, `/run_user` or `/post`.*
+*You only need to `/refresh` again after buying a new Steam game.*
+*For non-Steam titles, use `/add` instead.*
+*This ensures the game shows up the next time you or someone else uses `/run_game` or `/run_user`.*
 
 &nbsp;
 
-⚠️ Your **Steam profile** and **game details** must be set to public, otherwise library comparison features will not work.  
-If you prefer to keep them private, you can switch back **after** running the `/refresh` command.  
+⚠️ Your **Steam profile** and **game details** must be set to public for Steam library comparison features (`/run_game`, `/run_user` and `/refresh`).
+
+Custom games added with `/add` are not affected by Steam privacy settings.
+
+If you prefer to keep them private, you can switch back **after** running the `/refresh` command.
 
 &nbsp;
 
