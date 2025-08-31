@@ -1,9 +1,15 @@
-# PulseMatch Discord Bot
+<p align="center">
+  <img src="https://cdn.discordapp.com/app-icons/1385330923863801866/0c0f3e253dff207f5f7d29aeac89b2cc.png" alt="PulseMatch Icon" width="80" height="80" style="border-radius:50">
+</p>
 
-**PulseMatch** makes game nights effortless by showing which Steam games you and your friends share.  
-You can instantly see who owns what or create a post with `/post` to find teammates right away.
+<h1 align="center">PulseMatch Discord Bot</h1>
+
+<p align="center"><b>PulseMatch</b> makes game nights effortless by showing which Steam games you and your friends share.  
+You can instantly see who owns what or create a post with <code>/post</code> to find teammates right away.</p>
 
 &nbsp;
+
+# **Overview**
 
 🎮 **Instant game checks**  
 See all the games you share with a friend or find who owns a specific title.
@@ -30,7 +36,7 @@ Your data stays local to the bot.
 
 After you `/link` your Steam, just run `/refresh` to update your game library and you're good to go!  
 
-(You only need to `/refresh` again after buying a new game, so it’s included the next time you or someone else uses `/run_game`, `/run_user` or `/post`.)  
+*You only need to `/refresh` again after buying a new game, so it’s included the next time you or someone else uses `/run_game`, `/run_user` or `/post`.*
 
 &nbsp;
 
