@@ -84,6 +84,14 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 &nbsp;
 
+**(DM with the bot):**
+
+`!clean` - Delete all messages sent by the bot in this DM
+
+`!clean <number>` - Delete the last X messages sent by the bot in this DM
+
+&nbsp;
+
 # **Legal**
 
 📜 [Privacy Policy](./privacy_policy.md)  
