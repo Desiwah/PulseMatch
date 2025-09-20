@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Desiwah/PulseMatch/blob/main/assets/logo.png?raw=true" alt="PulseMatch Icon" width="80" height="80">
+  <img src="https://github.com/Desiwah/PulseMatch/blob/main/assets/logo/logo.png?raw=true" alt="PulseMatch Icon" width="80" height="80">
 </p>
 
 <h1 align="center">PulseMatch Discord Bot</h1>
@@ -59,6 +59,28 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 **OR**
 
 [![Install to Server](https://img.shields.io/badge/Install%20to%20Server-43B581?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/oauth2/authorize?client_id=1385330923863801866)
+
+&nbsp;
+
+# **Screenshots**
+
+<a href="assets/screenshots/post.png">
+  <img src="assets/screenshots/post.png" alt="Post request screenshot" width="400">
+</a>
+<a href="assets/screenshots/dm.png">
+  <img src="assets/screenshots/dm.png" alt="DM notification screenshot" width="400">
+</a>
+
+<a href="assets/screenshots/postrequest.png">
+  <img src="assets/screenshots/postrequest.png" alt="Post request form screenshot" width="400">
+</a>
+<a href="assets/screenshots/steamgame.png">
+  <img src="assets/screenshots/steamgame.png" alt="Steam game search screenshot" width="400">
+</a>
+
+<a href="assets/screenshots/steamuser.png">
+  <img src="assets/screenshots/steamuser.png" alt="Steam user comparison screenshot" width="400">
+</a>
 
 &nbsp;
 
