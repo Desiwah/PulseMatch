@@ -86,7 +86,7 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 # **Commands**
 
-`/link <Steam ID or URL>` - Link your Steam account
+`/link <Steam profile URL>` - Link your Steam account
 
 `/refresh` - Update your Steam library
 
