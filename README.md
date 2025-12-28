@@ -34,19 +34,26 @@ Your data stays local to the bot.
 
 # **Instructions**
 
-After you `/link` your Steam, just run `/refresh` to update your game library and you're good to go!
-
-*You only need to `/refresh` again after buying a new Steam game.*
-*For non-Steam titles, use `/add` instead.*
-*This ensures the game shows up the next time you or someone else uses `/run_game` or `/run_user`.*
+1.  `/link <Steam profile URL>` your Steam profile URL.
+2.  `/refresh` your library.
+3.  Done!
 
 &nbsp;
 
-⚠️ Your **Steam profile** and **game details** must be set to public for Steam library comparison features (`/run_game`, `/run_user` and `/refresh`).
+⚠️ **BEFORE REFRESHING (Important):**
 
-Custom games added with `/add` are not affected by Steam privacy settings.
+For the bot to see your games, your **Steam Privacy Settings** must be set to:
 
-If you prefer to keep them private, you can switch back **after** running the `/refresh` command.
+* **My Profile** | *Public*
+* **Game Details** | *Public*
+* **Always keep my total playtime private** | *UNCHECKED*
+
+📍 **Navigation:** `[USERNAME]` > `Profile` > `Edit Profile` > `Privacy Settings`
+
+&nbsp;
+
+> [!TIP]
+> You can switch these back to *Private* after the `/refresh`.
 
 &nbsp;
 
@@ -88,29 +95,29 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 `/link <Steam profile URL>` - Link your Steam account
 
-`/refresh` - Update your Steam library
+`/refresh` - Update your Steam library (Run only after buying new games)
 
 `/add <game>` - Add a custom (non-Steam) game
 
 `/remove <game>` - Remove a custom game
 
-`/run_game <game>` - See who owns a game
+`/run_game <game>` - See who owns a specific game
 
 `/run_user <@user>` - View shared games with a user
 
-`/post <game>` - Post a public request to find players for a game
+`/post <game>` - Create a "Looking for Group" request
 
-`/unlink` - Delete all your data from the bot's server
+`/unlink` - Delete **ALL** your data (Irreversible)
 
 `/help` - Show instructions and list all available commands
 
 &nbsp;
 
-**(DM with the bot):**
+**DM Commands (Send to Bot in Direct Message):**
 
-`!clean` - Delete all messages sent by the bot in this DM
+`!clean` - Delete all bot messages in DM
 
-`!clean <number>` - Delete the last X messages sent by the bot in this DM
+`!clean <number>` - Delete the last X bot messages
 
 &nbsp;
 
