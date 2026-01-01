@@ -130,9 +130,8 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 # **Support**
 
-**PulseMatch** is free to use. Your support is optional but appreciated:
+**PulseMatch** is free and always will be. If it’s made your life easier and you’d like to help keep it running and support my work, you can do so here:
 
-<a href="https://www.buymeacoffee.com/desiwah">
-  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me a Coffee" width="160">
-</a>
+[![Keep the Server Juiced](https://img.shields.io/badge/Keep_the_Server_Juiced-%23539764?style=for-the-badge&logo=amp&logoColor=white)](https://www.buymeacoffee.com/desiwah)
 
+Thank you! ❤️
