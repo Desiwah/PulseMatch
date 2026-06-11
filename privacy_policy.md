@@ -14,7 +14,7 @@ When you interact with the PulseMatch bot, the following data may be collected:
 - **Steam ID** – collected when you link your Steam account using the `/link` command.
 - **Steam Game Library** – collected **only** when you run the `/refresh` command manually.
 - **Custom Games** – any non-Steam games you add with the `/add` command.
-- **Game Names Queried via RAWG** – used for autocomplete suggestions and cached locally.
+- **Game Names Queried via IGDB** – used for autocomplete suggestions and cached locally.
 
 We do **not** collect:
 - Your Discord messages, emails, IP address, or location.
@@ -55,7 +55,7 @@ The bot developer **cannot delete data on your behalf**. Doing so manually would
 We do **not** share, sell, or disclose your data to any third parties.  
 The data is only accessible to the bot developer for the purpose of operating and maintaining the bot.
 
-We are not affiliated with Discord, Valve (Steam), or RAWG. Use of their services is governed by their own privacy policies.
+We are not affiliated with Discord, Valve (Steam), or IGDB/Twitch. Use of their services is governed by their own privacy policies.
 
 ---
 
