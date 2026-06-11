@@ -1,6 +1,6 @@
 # 📘 Terms of Service for PulseMatch
 
-**Effective Date:** July 8, 2025
+**Effective Date:** June 11, 2026
 
 By using the PulseMatch Discord bot, you agree to the terms described below. These Terms of Service outline the rules and responsibilities that apply to your use of the bot.
 
@@ -59,7 +59,7 @@ While efforts are made to ensure a stable experience, use of the bot is at your 
 The developer of PulseMatch is not responsible for:
 
 - Any damage, loss, or disruption resulting from the use (or inability to use) the bot.
-- Actions taken by Discord or third-party services like Steam or RAWG.
+- Actions taken by Discord or third-party services like Steam or IGDB.
 - Any data loss caused by user error or misuse of bot commands.
 
 Use of the bot implies understanding and acceptance of these risks.
@@ -71,7 +71,7 @@ Use of the bot implies understanding and acceptance of these risks.
 PulseMatch uses data from external platforms such as:
 
 - **Steam (Valve Corporation)**
-- **RAWG Video Game Database**
+- **IGDB (Internet Game Database, operated by Twitch Interactive)**
 
 These platforms have their own terms and privacy policies. PulseMatch is not affiliated with them.
 
