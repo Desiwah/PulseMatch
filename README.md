@@ -130,7 +130,7 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 # **Support**
 
-**PulseMatch** is free and always will be. If it’s made your life easier and you’d like to help keep it running and support my work, you can do so here:
+PulseMatch's core features are free and they'll stay that way. If it's made your game nights easier and you'd like to support development and server costs, you can do so here:
 
 [![Buy Me A Coffee](https://img.shields.io/badge/Support_the_Project-%23539764?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://donation.8520456.xyz)
 
