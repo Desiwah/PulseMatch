@@ -1,6 +1,6 @@
 # 📜 Privacy Policy for PulseMatch
 
-**Effective Date:** July 8, 2025
+**Effective Date:** June 11, 2026
 
 PulseMatch is a Discord bot that allows users to discover which games they share with others by linking their Steam libraries and adding optional custom (non-Steam) games. Your privacy is important to us, and this policy explains what data we collect, how it's used, and your rights regarding that data.
 
