@@ -12,7 +12,7 @@ You can instantly see who owns what or create a post with <code>/post</code> to 
 # **Overview**
 
 🎮 **Instant game checks**  
-See all the games you share with a friend or find who owns a specific title.
+Find who owns a specific title, or compare libraries with up to 10 friends at once to see what you can all play together.
 
 🤝 **Find teammates with `/post`**  
 Create a public post for any game. Friends can mark interest, you get notified, and posts expire after 24 hours.
@@ -101,9 +101,9 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 `/remove <game>` - Remove a custom game
 
-`/run_game <game>` - See who owns a specific game
+`/owners <game>` - See who in the server owns a game
 
-`/run_user <@user>` - View shared games with a user
+`/compare` - Find games everyone can play together (up to 10 players)
 
 `/post <game>` - Create a "Looking for Group" request
 
@@ -115,9 +115,9 @@ Choose one of the options below to add **PulseMatch** to your Discord server:
 
 **DM Commands (Send to Bot in Direct Message):**
 
-`!clean` - Delete all bot messages in DM
+`!clear` - Delete all bot messages in DM
 
-`!clean <number>` - Delete the last X bot messages
+`!clear <number>` - Delete the last X bot messages
 
 &nbsp;
 
